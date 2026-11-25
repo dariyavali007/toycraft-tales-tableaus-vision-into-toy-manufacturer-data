@@ -1,10 +1,14 @@
 # ToyCraft Tales: Tableau's Vision into Toy Manufacturer Data
 
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)
+![Data](https://img.shields.io/badge/Focus-Data%20Analytics-2F6F9F)
+![Format](https://img.shields.io/badge/Data-CSV-217346)
+
 An exploratory data analytics and visualization project focused on toy manufacturer data. The project uses Tableau to turn the available dataset into an interactive dashboard for easier exploration of business trends and performance.
 
 ## Interactive dashboard
 
-[Open the dashboard on Tableau Public](https://public.tableau.com/views/Dashboard1_17511120842850/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[**Open the dashboard on Tableau Public →**](https://public.tableau.com/views/Dashboard1_17511120842850/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Repository contents
 
@@ -12,9 +16,9 @@ This repository includes the project dataset, Tableau workbook, dashboard export
 
 ## Tools and technologies
 
-- Tableau – data visualization and dashboarding
-- CSV – source data
-- Data analysis and reporting
+- **Tableau** – data visualization and dashboarding
+- **CSV** – source data
+- **Data analysis and reporting** – exploring and communicating findings
 
 ## How to explore
 
@@ -26,6 +30,10 @@ This repository includes the project dataset, Tableau workbook, dashboard export
 ## Project objective
 
 The goal is to practice analyzing structured business data and communicating insights through clear, interactive visualizations.
+
+## Author
+
+[Dariya Vali](https://github.com/dariyavali007) · [Portfolio](https://dariyavali007.github.io/vali-portfolio/)
 
 ---
 Created as a learning project in data analytics and visualization.
